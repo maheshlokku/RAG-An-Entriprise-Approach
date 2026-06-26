@@ -1,4 +1,4 @@
-# RAG PDF Assistant
+# RAG-An-Entriprise-Approach
 
 This project is a small local Retrieval-Augmented Generation (RAG) proof of concept. It loads PDF files from a `docs` folder, splits them into chunks, stores embeddings in a local Chroma vector database, and answers questions using retrieved document context with Ollama.
 
